@@ -27,7 +27,7 @@ It's free, open-source, and fully parametric.
 
 Since this workbench is fresh and not yet in the official Addon Manager, you need to install it manually (it takes 30 seconds):
 
-1.  **Download** this repository (Green "Code" button -> "Download ZIP") and extract it.
+1.  **Download** this repository "Download ZIP" and extract it.
 2.  Find your FreeCAD **Mod** folder:
     * **Windows**: `%APPDATA%\FreeCAD\Mod\`
     * **Linux**: `~/.local/share/FreeCAD/Mod/`
