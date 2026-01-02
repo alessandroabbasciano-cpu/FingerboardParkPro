@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+    <name>Fingerboard Park Pro</name>
+    <description>Parametric obstacle generator for fingerboard parks</description>
+    <version>1.0.0-alpha</version>
+    <date>2026-01-02</date>
+    <maintainer email="fingerboardmoldpro@duck.com">Abbasciano Alessandro</maintainer>
+    <url>https://github.com/alessandroabbasciano-cpu/FingerboardParkPro</url>
+    <pythonversion>3</pythonversion>
+    <content>
+        <workbench>
+            <classname>FingerboardParkProWorkbench</classname>
+            <script>InitGui.py</script>
+        </workbench>
+    </content>
+</package>
