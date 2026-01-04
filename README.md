@@ -7,7 +7,7 @@ I created this workbench because I was tired of resizing generic STLs. It's time
 
 It's free, open-source, and fully parametric.
 
-![Park Preview](preview.png)
+![Park Preview](./images/preview.png)
 
 ## 🚀 Key Features
 
@@ -25,15 +25,18 @@ It's free, open-source, and fully parametric.
 
 ## 📦 Installation
 
-Since this workbench is fresh and not yet in the official Addon Manager, you need to install it manually (it takes 30 seconds):
+Since this workbench is not yet available in the official Addon Manager registry, please install it manually:
 
-1.  **Download** this repository "Download ZIP" and extract it.
-2.  Find your FreeCAD **Mod** folder:
-    * **Windows**: `%APPDATA%\FreeCAD\Mod\`
-    * **Linux**: `~/.local/share/FreeCAD/Mod/`
-    * **macOS**: `~/Library/Application Support/FreeCAD/Mod/`
-3.  Copy the `FingerboardParkPro` folder into `Mod`.
-4.  **Restart FreeCAD**.
+1. **Download** this repository as a ZIP file and extract it.
+
+2. **Locate your FreeCAD Addon folder**:
+    * Open FreeCAD and launch the **Addon Manager**
+    * **Ensure your Addon Manager is up to date**.
+    * Click on the **"Open Addon Folder"** option:![alt text](./images/am_oaf.png)
+
+3. **Copy** the extracted `FingerboardMoldPro` folder into that directory you just opened.
+
+4. **Restart FreeCAD** to load the new workbench.
 
 ---
 
