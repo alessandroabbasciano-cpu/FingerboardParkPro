@@ -18,7 +18,7 @@ else:
         Part = None
         PartDesign = None
 
-from PySide2 import QtWidgets   # type: ignore
+from PySide import QtWidgets
 
 ICONDIR = os.path.join(fc.getUserAppDataDir(), "Mod", "FingerboardParkPro", "icons")
 
